@@ -1,0 +1,7 @@
+C:\Users\shlom\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\shlom\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\shlom\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\shlom\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\MCON_368_Asgn04.csprojAssemblyReference.cache
+C:\Users\shlom\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\MCON_368_Asgn04.csproj.CoreCompileInputs.cache
+C:\Users\shlom\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\shlom\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
